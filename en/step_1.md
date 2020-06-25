@@ -1,58 +1,29 @@
-## Introduction
+## What is a Python package
 
-Add project description here. What will learners be making?
+A Python package is a container for a module or collection of modules. To use a module in your program you need to install the package.
 
-### What you will make
+You are using a module every time you use an `import` in your program. e.g.
 
---- no-print ---
-Add instructions for using the embedded content here.
+```
+from time import sleep
+import numpy as np
+import pygame
+```
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+[The Python Standard Library](https://docs.python.org/3/library/) is a collection of modules which are "inbuilt" with Python. e.g `time`, `random`, `os`. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Additional modules can be installed using their "package". These modules may have been created by the [Python Software Foundation](https://www.python.org/psf/), organisations or individuals. The number of "additional" modules far exceeds the number of inbuilt modules.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+Most packages are made available on the [Python Package Index (PyPI)](https://pypi.org).
 
-+ Describe hardware here
+Whether you can install a package will depend on:
 
-### Software
+- how you are using Python on your computer
+- if and how you installed Python
+- your level of access to change your computer's setup
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+You may wish to review our guidance regarding [Python install options](https://projects.raspberrypi.org/en/projects/python-install-options).
 
-### Downloads
+This guide provides guidance and advice on how to install Python packages for the most typical scenarios.. However, not all scenarios can be catered for and your specific setup may affect your ability to install or use a specific python package.
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+Raspberry Pi Foundation projects, courses and resources will describe what python packages you will need in order to complete the activity and any known issues or limitations.
