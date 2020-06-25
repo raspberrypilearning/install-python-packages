@@ -1,4 +1,4 @@
-## Using Python editor package installation tools
+## Using your Python editors package installation tool
 
 Online and dedicated editors usually come with "pre-installed packages" or have their own package installers which can be used to install additional packages.
 
