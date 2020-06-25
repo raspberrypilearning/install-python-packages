@@ -14,7 +14,36 @@ Below is guidance regarding some of the popular online and installed Python edit
 
 The repl.it Packages feature can be used to add additional modules to your project. Due to the limitations of all online editors not all modules will work, however many will.
 
-todo - provide simple instructions on how to do this.
+--- collapse ---
+
+---
+title: Install packages with repl.it
+---
+
++ Open your program in repl.it
+
++ Select the packages icon from the menu
+
+![Packages icon highlighted on the repl.it window](images/replit_step1.png)
+
++ Search for the name of the package e.g. `wikipedia` and click on the name of the package you wish to install
+
+![wikipedia has been entered into the search box and the wikipedia package is highlighted in the list of packages returned](images/replit_step2.png)
+
++ Click the **+** icon to install the package
+
+![the + icon next to the wikipedia package is highlighted](images/replit_step3.png)
+
++ Installation progress will be shown in the terminal
+
+![the terminal showing the messages from the wikipedia package installation](images/replit_step4.png)
+
++ Installation is complete when the **+** icon stops spinning and is replaced by a **-**
+
+![the - icon next to the wikipedia package is highlighted](images/replit_step5.png)
+
+
+--- /collapse ---
 
 ### Thonny
 
