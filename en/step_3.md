@@ -1,4 +1,4 @@
-# Using your Python editors package installation tool
+## Using your Python editors package installation tool
 
 Online and dedicated editors usually come with "pre-installed packages" or have their own package installers which can be used to install additional packages.
 
@@ -6,7 +6,7 @@ You can find out more about online and dedicated editors in our [Python install 
 
 Below is guidance regarding some of the popular online and installed Python editors. If your editor is not listed, be sure to check out their documentation.
 
-## trinket.io
+### trinket.io
 
 ![trinket.io screenshot](images/trinket.png)
 
@@ -14,13 +14,11 @@ Below is guidance regarding some of the popular online and installed Python edit
 
 There is no option to install additional packages if the module you wish to use is not available.
 
-## repl.it
+### repl.it
 
 ![repl.it screenshot](images/replit.png)
 
 The [repl.it](https://repl.it) Packages feature can be used to add additional modules to your project. Due to the limitations of all online editors not all modules will work, however many will.
-
-**Note** - if you want to use a package in multiple programs, you will need to install it in each program.
 
 --- collapse ---
 
@@ -50,10 +48,11 @@ title: Install packages with repl.it
 
 ![the - icon next to the wikipedia package is highlighted](images/replit_step5.png)
 
+**Note** - if you want to use a package in multiple programs, you will need to install it in each program.
 
 --- /collapse ---
 
-## Thonny
+### Thonny
 
 ![thonny IDE screenshot](images/thonny.png)
 
@@ -91,7 +90,7 @@ title: Install packages with Thonny
 
 --- /collapse ---
 
-## Mu
+### Mu
 
 ![Mu IDE](images/mu.png)
 

@@ -1,4 +1,4 @@
-# What is a Python package
+## What is a Python package
 
 A Python package is a container for a module or collection of modules. To use a module in your programs its package must be installed.
 
@@ -10,9 +10,9 @@ import numpy as np
 import pygame
 ```
 
-[The Python Standard Library](https://docs.python.org/3/library/) is a collection of modules which are "inbuilt" with Python (e.g `time`, `random`, `os`) and do not need installing. 
+[The Python Standard Library](https://docs.python.org/3/library/) is a collection of modules which are *inbuilt* with Python (e.g `time`, `random`, `os`) and do not need installing. 
 
-Additional modules must be installed using their "package". These modules may have been created by organisations, teams or individuals. The number of "additional" modules far exceeds the number of inbuilt modules.
+Additional modules must be installed using their *package*. These modules may have been created by organisations, teams or individuals. The number of "additional" modules far exceeds the number of inbuilt modules.
 
 Most packages are made available on the [Python Package Index (PyPI)](https://pypi.org).
 
