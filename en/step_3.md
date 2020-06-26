@@ -97,6 +97,22 @@ The [alpha release of Mu](https://codewith.mu/en/download) includes a tool for i
 title: Installing packages with Mu Alpha
 ---
 
-content
++ Click on the Mu Administration **cog** in the bottom right.
+
+![Mu admin button cog highlighted in the bottom right](images/mu_step1.png)
+
++ Select the **Third Party Packages** tab.
+
+![Mu Administration, with the Third Party Packages tab highlighted](images/mu_step2.png)
+
++ Enter the name of the package you wish to install e.g. `wikipedia` and click **OK**.
+
+![third party packages window with wikipedia entered](images/mu_step3.png)
+
++ The package will be collected (downloaded) and installed.  
+
+![third party packages download and FINISHED message](images/mu_step5.png)
+
+Multiple packages can be installed by placing the name of individual packages on new lines. Packages can be un-installed by removing the package name from the list and clicking **OK**.
 
 --- /collapse ---
