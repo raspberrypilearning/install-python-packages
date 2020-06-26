@@ -1,4 +1,4 @@
-## What is a Python package
+# What is a Python package
 
 A Python package is a container for a module or collection of modules. To use a module in your programs its package must be installed.
 

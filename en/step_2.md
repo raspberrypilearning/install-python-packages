@@ -1,4 +1,4 @@
-## Installing packages
+# Installing packages
 
 The most common methods for installing packages are to use:
 
