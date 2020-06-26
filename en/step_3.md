@@ -8,7 +8,9 @@ Below is guidance regarding some of the popular online and installed Python edit
 
 ### trinket.io
 
-[trinket.io comes with some python modules pre-installed](https://trinket.io/docs/python) which you can use without having to install them yourself. There is no option to install additional packages if the module you wish to use is not available.
+[trinket.io comes with some python modules pre-installed](https://trinket.io/docs/python) which you can use without having to install them yourself. 
+
+There is no option to install additional packages if the module you wish to use is not available.
 
 ### repl.it
 
@@ -47,9 +49,39 @@ title: Install packages with repl.it
 
 ### Thonny
 
-Thonny includes a Package Manager which can be used to install packages from pypi.org. The majority of modules should be supported. Note - modules installed using the package manager will only be available to use within the Thonny editor.
+Thonny includes a Package Manager which can be used to install packages from pypi.org. The majority of modules should be supported. 
 
-todo - provide simple instructions on how to do this.
+--- collapse ---
+
+---
+title: Install packages with Thonny
+---
+
+**Note** - if you are using Thonny in *simple mode* you will need to click ***switch to regular mode*** amd restart Thonny to install packages. 
+
+![thonny in simple mode with the "switch to regular mode" option in the top right highlighted](images/thonny_simple_mode.png)
+
++ Select **Manage Packages** from **tools** menu.
+
+![thonny IDE with the Manage Packages option on the tools menu selected](images/thonny_step1.png)
+
++ Enter the name of the package you want to install (e.g. wikipedia) and click **Find package from PyPI**
+
+![thonny manage packages tool, wikipedia is entered into the text box and "find package from pypi" button are highlighted](images/thonny_step2.png)
+
++ Click **Install** to install the package
+
+![thonny manage packages tool, showing the wikipedia package, the install button is highlighted](images/thonny_step3.png)
+
++ A pop-up window will show the installation progress
+
+![thonny manage packages tool, the pop-up window shows the progress of installing the wikipedia package](images/thonny_step4.png)
+
++ When the package has been installed the pop-up window will close and you will have the option to uninstall the package
+
+![thonny manage packages tool showing the wikipedia package with the option to uninstall](images/thonny_step5.png)
+
+--- /collapse ---
 
 ### Mu
 
