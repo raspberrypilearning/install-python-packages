@@ -14,7 +14,9 @@ There is no option to install additional packages if the module you wish to use 
 
 ### repl.it
 
-The repl.it Packages feature can be used to add additional modules to your project. Due to the limitations of all online editors not all modules will work, however many will.
+The [repl.it](https://repl.it) Packages feature can be used to add additional modules to your project. Due to the limitations of all online editors not all modules will work, however many will.
+
+**Note** - if you want to use a package in multiple programs, you will need to install it in each program.
 
 --- collapse ---
 
@@ -22,25 +24,25 @@ The repl.it Packages feature can be used to add additional modules to your proje
 title: Install packages with repl.it
 ---
 
-+ Open your program in repl.it
++ Open your program in repl.it.
 
-+ Select the packages icon from the menu
++ Select the packages icon from the menu.
 
 ![Packages icon highlighted on the repl.it window](images/replit_step1.png)
 
-+ Search for the name of the package e.g. `wikipedia` and click on the name of the package you wish to install
++ Search for the name of the package e.g. `wikipedia` and click on the name of the package you wish to install.
 
 ![wikipedia has been entered into the search box and the wikipedia package is highlighted in the list of packages returned](images/replit_step2.png)
 
-+ Click the **+** icon to install the package
++ Click the **+** icon to download install the package.
 
 ![the + icon next to the wikipedia package is highlighted](images/replit_step3.png)
 
-+ Installation progress will be shown in the terminal
++ Installation progress will be shown in the terminal.
 
 ![the terminal showing the messages from the wikipedia package installation](images/replit_step4.png)
 
-+ Installation is complete when the **+** icon stops spinning and is replaced by a **-**
++ Installation is complete when the **+** icon stops spinning and is replaced by a **-**.
 
 ![the - icon next to the wikipedia package is highlighted](images/replit_step5.png)
 
@@ -49,7 +51,7 @@ title: Install packages with repl.it
 
 ### Thonny
 
-Thonny includes a Package Manager which can be used to install packages from pypi.org. The majority of modules should be supported. 
+[Thonny](https://thonny.org) includes a Package Manager which can be used to install packages from [PyPI](https://pypi.org). The majority of modules should be supported. 
 
 --- collapse ---
 
@@ -65,19 +67,19 @@ title: Install packages with Thonny
 
 ![thonny IDE with the Manage Packages option on the tools menu selected](images/thonny_step1.png)
 
-+ Enter the name of the package you want to install (e.g. wikipedia) and click **Find package from PyPI**
++ Enter the name of the package you want to install (e.g. wikipedia) and click **Find package from PyPI**.
 
 ![thonny manage packages tool, wikipedia is entered into the text box and "find package from pypi" button are highlighted](images/thonny_step2.png)
 
-+ Click **Install** to install the package
++ Click **Install** to install the package.
 
 ![thonny manage packages tool, showing the wikipedia package, the install button is highlighted](images/thonny_step3.png)
 
-+ A pop-up window will show the installation progress
-
++ The package will be downloaded and installed. A pop-up window will show the installation progress.
+ 
 ![thonny manage packages tool, the pop-up window shows the progress of installing the wikipedia package](images/thonny_step4.png)
 
-+ When the package has been installed the pop-up window will close and you will have the option to uninstall the package
++ When the package has been installed the pop-up window will close and you will have the option to uninstall the package.
 
 ![thonny manage packages tool showing the wikipedia package with the option to uninstall](images/thonny_step5.png)
 
@@ -85,8 +87,16 @@ title: Install packages with Thonny
 
 ### Mu
 
-The current release of Mu contains a "pre-installed" set of common modules, unfortunately you cannot be used to install any additional packages. 
+The current release of [Mu](https://codewith.mu) contains a "pre-installed" set of common modules. You cannot be used to install any additional packages. 
 
-The alpha release of Mu includes a tool for installing "Third Party Packages" from pypi.org. 
+The [alpha release of Mu](https://codewith.mu/en/download) includes a tool for installing "Third Party Packages" from [PyPI](https://pypi.org). The majority of modules should be supported. 
 
-todo - provide simple instructions on how to do this.
+--- collapse ---
+
+---
+title: Installing packages with Mu Alpha
+---
+
+content
+
+--- /collapse ---
