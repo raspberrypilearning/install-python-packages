@@ -1,0 +1,12 @@
+title: Installing Python packages
+hero_image: images/banner.png
+description: Guidance on how to install Python packages
+version: 4
+listed: false
+copyedit: false
+last_tested: "2020-06-25"
+steps:
+  - title: What is a Python package?
+  - title: Installing packages
+  - title: Using Python editor package installation tools
+  - title: Using the pip3 command line tool

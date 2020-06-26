@@ -1,6 +1,6 @@
 # install-python-packages
 
-![install-python-packages](banner.png)
+![install-python-packages](en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/install-python-packages](https://projects.raspberrypi.org/en/projects/install-python-packages)
 
