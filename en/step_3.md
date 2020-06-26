@@ -8,11 +8,15 @@ Below is guidance regarding some of the popular online and installed Python edit
 
 ### trinket.io
 
+![trinket.io screenshot](images/trinket.png)
+
 [trinket.io comes with some python modules pre-installed](https://trinket.io/docs/python) which you can use without having to install them yourself. 
 
 There is no option to install additional packages if the module you wish to use is not available.
 
 ### repl.it
+
+![repl.it screenshot](images/replit.png)
 
 The [repl.it](https://repl.it) Packages feature can be used to add additional modules to your project. Due to the limitations of all online editors not all modules will work, however many will.
 
@@ -51,6 +55,8 @@ title: Install packages with repl.it
 
 ### Thonny
 
+![thonny IDE screenshot](images/thonny.png)
+
 [Thonny](https://thonny.org) includes a Package Manager which can be used to install packages from [PyPI](https://pypi.org). The majority of modules should be supported. 
 
 --- collapse ---
@@ -86,6 +92,8 @@ title: Install packages with Thonny
 --- /collapse ---
 
 ### Mu
+
+![Mu IDE](images/mu.png)
 
 The current release of [Mu](https://codewith.mu) contains a "pre-installed" set of common modules. You cannot be used to install any additional packages. 
 
