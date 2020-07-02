@@ -20,7 +20,7 @@ Whether you can install a package will depend on:
 
 - how you are using Python on your computer
 - if and how you installed Python
-- your level of access to change your computer's setup
+- your level of access to change your computer's set up
 
 You may wish to review our guidance regarding [Python install options](https://projects.raspberrypi.org/en/projects/python-install-options) for more information on the options creating Python programs.
 
