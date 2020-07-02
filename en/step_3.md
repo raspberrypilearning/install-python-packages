@@ -94,7 +94,7 @@ title: Install packages with Thonny
 
 ![Mu IDE](images/mu.png)
 
-The current release of [Mu](https://codewith.mu) contains a "pre-installed" set of common modules. You cannot be used to install any additional packages. 
+The current release of [Mu](https://codewith.mu) contains a "pre-installed" set of common modules. You cannot install any additional packages. 
 
 The [alpha release of Mu](https://codewith.mu/en/download) includes a tool for installing "Third Party Packages" from [PyPI](https://pypi.org). The majority of modules should be supported. 
 
