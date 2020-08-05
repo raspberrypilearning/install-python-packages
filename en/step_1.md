@@ -20,7 +20,7 @@ Whether you can install a package depends on:
 - Whether and how you installed Python
 - Your level of access to change your computer's setup
 
-You may wish to review our guidance about [different applications for creating Python programs](https://projects.raspberrypi.org/en/projects/python-install-options) for more information on how the application you choose influences whether you can install Python packages.
+You may wish to review our guidance about [different applications for creating Python programs](https://projects.raspberrypi.org/en/projects/python-install-options) for more information on how the application you choose influences whether you can install Python packages. Note that you cannot install Python packages if you are using an online IDE.
 
 This guide provides guidance and advice on how to install Python packages depending on which application you use to write your programs. However, not all options can be addressed here, and your specific setup may affect your ability to install or use a specific Python package.
 
