@@ -10,7 +10,7 @@ The choice of which to use is dependant on the specific set up of your computer 
 
 1. If your Python editor has a **package installation tool**, we recommend that you use this. 
 
-    Note: using the package installation tool maybe the only way to install modules for use in your editor. Normally, modules installed using the editor's tool are only be available to you within the editor itself.
+    Note: using the package installation tool may be the only way to install modules for use in your editor. Normally, modules installed using the editor's tool are only be available to you within the editor itself.
 
 2. If you are using a Raspberry Pi computer with the Raspberry Pi OS (Raspbian), we recommend you [install packages with the pip3 command line utility](https://projects.raspberrypi.org/en/projects/install-python-packages/3).
 
