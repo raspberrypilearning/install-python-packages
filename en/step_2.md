@@ -6,7 +6,7 @@ The most common methods for installing packages are:
 + The `pip` / `pip3` command line utility, which is included with a full Python install
 + An operating system specific–installer provided by the package creators (e.g. a Windows installer or Debian apt package) 
 
-Your choice is dependant on the specific setup of your computer, and the following guidelines should help you make a decision:
+The choice of which to use is dependant on the specific set up of your computer but the following guidelines should help you make a decision:
 
 1. If your Python editor has a **package installation tool**, we recommend that you use this. 
 
