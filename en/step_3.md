@@ -96,7 +96,7 @@ title: Install packages with Thonny
 
 ![Mu IDE](images/mu.png)
 
-[Mu](https://codewith.mu/en/download) includes a *Third Party Packages* tool for installing packages from [PyPI](https://pypi.org). Mu supports the majority of Python modules. 
+[Mu](https://codewith.mu/en/download) includes a *Third Party Packages* tool, which you can use to install packages from [PyPI](https://pypi.org). Mu supports the majority of Python modules. 
 
 --- collapse ---
 
