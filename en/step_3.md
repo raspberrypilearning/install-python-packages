@@ -101,7 +101,7 @@ title: Install packages with Thonny
 --- collapse ---
 
 ---
-title: Installing packages with Mu
+title: Install packages with Mu
 ---
 
 + Click on the Mu Administration **cog** in the bottom right-hand corner.
