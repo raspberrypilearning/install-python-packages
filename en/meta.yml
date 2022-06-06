@@ -8,8 +8,6 @@ copyedit: false
 last_tested: '2020-06-25'
 steps:
 - title: What is a Python package?
-  completion: engaged
 - title: Installing packages
 - title: Using Python editor package installation tools
-  completion: internal
 - title: Using the pip3 command line tool
